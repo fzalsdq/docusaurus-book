@@ -11,6 +11,17 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
+    title: 'Knowledge Books',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        Here you will find Books and Articles related to knowledge about
+        different fields such as Social Sciences and Humanities as well as
+        General Knowledge from different Topics.
+      </>
+    ),
+  },
+  {
     title: 'Engineering Books',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
@@ -28,17 +39,6 @@ const FeatureList: FeatureItem[] = [
       <>
         These Books cater needs of Medical Students as well as other people. The
         material ranges from beginner to Advance Levels.
-      </>
-    ),
-  },
-  {
-    title: 'Knowledge Books',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Here you will find Books and Articles related to knowledge about
-        different fields such as Social Sciences and Humanities as well as
-        General Knowledge from different Topics.
       </>
     ),
   },
