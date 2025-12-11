@@ -15,8 +15,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Here you will find Books that focuses on Mathematics, Sciences and other
+        valuable Topics both for Engineering and other similar or related
+        fields.
       </>
     ),
   },
@@ -25,8 +26,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        These Books cater needs of Medical Students as well as other people. The
+        material ranges from beginner to Advance Levels.
       </>
     ),
   },
@@ -35,8 +36,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Here you will find Books and Articles related to knowledge about
+        different fields such as Social Sciences and Humanities as well as
+        General Knowledge from different Topics.
       </>
     ),
   },
